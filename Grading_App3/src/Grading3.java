@@ -1,12 +1,12 @@
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
+import java.util.ArrayList;
 
-public class grading_app {
+public class Grading3 {
 
-	public static void main(String[] args) 
-	{
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+
 		Scanner scan = new Scanner(System.in);
 		
 		int student1total = 0; //400;
@@ -541,3 +541,4 @@ public class grading_app {
 
 
 }
+
